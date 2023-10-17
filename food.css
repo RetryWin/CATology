@@ -1,0 +1,283 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body{ 
+     font-family: 'Monotype Corsiva', cursive; 
+}
+
+.catology_logo_header {
+	position: fixed;
+	box-shadow: 0px 2px 3px black;
+}
+
+h1{
+	font-size: 55px;
+}
+
+nav ul{
+	display: flex;
+	background-color: white;
+	color: black;
+	list-style: none;
+	font-family: 'Monotype Corsiva', cursive; 
+}
+
+nav li{
+	width: 600px;
+	padding: 25px 25px 25px 25px;
+	text-align: center;
+	position: /*relative;*/
+}
+
+.link-ease-in-out a {
+    display: inline-block;
+    color: black; 
+    line-height: 1;
+    text-decoration: none;
+    cursor: pointer;
+}
+.link-ease-in-out a:after {
+    background-color: ee6e04;
+    display: block;
+    content: "";
+    height: 4px; 
+    width: 0%;
+    -webkit-transition: width .3s ease-in-out;
+    -moz--transition: width .3s ease-in-out;
+    transition: width .3s ease-in-out;
+}
+.link-ease-in-out a:hover:after,
+.link-ease-in-out a:focus:after {
+    width: 100%;
+}
+
+.a1 {
+	color: black;
+	transition: 0.5s;
+}
+
+.a1:hover {
+	transform: scale(1.2, 1.2);
+	border: 1 black;
+	text-color: ee6e04;
+}
+
+
+
+.link-ease-in-out1 a {
+    display: inline-block;
+    color: black; 
+    line-height: 1;
+    text-decoration: none; 
+    cursor: pointer;
+}
+.link-ease-in-out1 a:after {
+    background-color: ee6e04;
+    display: block;
+    content: "";
+    height: 4px;
+    width: 0%;
+    -webkit-transition: width .3s ease-in-out;
+    -moz--transition: width .3s ease-in-out;
+    transition: width .3s ease-in-out;
+}
+.link-ease-in-out1 a:hover:after,
+.link-ease-in-out1 a:focus:after {
+    width: 100%;
+}
+
+.a2 {
+	color: black;
+	transition: 0.5s;
+}
+
+.a2:hover {
+	transform: scale(1.2, 1.2);
+	border: 1 black;
+	text-color: ee6e04;
+}
+
+
+
+
+.link-ease-in-out2 a {
+    display: inline-block;
+    color: black; 
+    line-height: 1;
+    text-decoration: none;
+    cursor: pointer;
+}
+.link-ease-in-out2 a:after {
+    background-color: ee6e04; 
+    display: block;
+    content: "";
+    height: 4px; 
+    width: 0%;
+    -webkit-transition: width .3s ease-in-out;
+    -moz--transition: width .3s ease-in-out;
+    transition: width .3s ease-in-out;
+}
+.link-ease-in-out2 a:hover:after,
+.link-ease-in-out2 a:focus:after {
+    width: 100%;
+}
+
+.a3 {
+	color: black;
+	transition: 0.5s;
+}
+
+.a3:hover {
+	transform: scale(1.2, 1.2);
+	border: 1 black;
+	text-color: ee6e04;
+}
+
+
+
+
+.link-ease-in-out3 a {
+    display: inline-block;
+    color: black; 
+    line-height: 1;
+    text-decoration: none; 
+    cursor: pointer;
+}
+.link-ease-in-out3 a:after {
+    background-color: ee6e04; 
+    display: block;
+    content: "";
+    height: 4px; 
+    width: 0%;
+    -webkit-transition: width .3s ease-in-out;
+    -moz--transition: width .3s ease-in-out;
+    transition: width .3s ease-in-out;
+}
+.link-ease-in-out3 a:hover:after,
+.link-ease-in-out3 a:focus:after {
+    width: 100%;
+}
+
+.a4 {
+	color: black;
+	transition: 0.5s;
+}
+
+.a4:hover {
+	transform: scale(1.2, 1.2);
+	border: 1 black;
+	text-color: ee6e04;
+}
+
+
+
+.link-ease-in-out4 a {
+    display: inline-block;
+    color: black; 
+    line-height: 1;
+    text-decoration: none;
+    cursor: pointer;
+}
+.link-ease-in-out4 a:after {
+    background-color: ee6e04;
+    display: block;
+    content: "";
+    height: 4px;
+    width: 0%;
+    -webkit-transition: width .3s ease-in-out;
+    -moz--transition: width .3s ease-in-out;
+    transition: width .3s ease-in-out;
+}
+.link-ease-in-out4 a:hover:after,
+.link-ease-in-out4 a:focus:after {
+    width: 100%;
+}
+
+.a5 {
+	color: black;
+	transition: 0.5s;
+}
+
+.a5:hover {
+	transform: scale(1.2, 1.2);
+	border: 1 black;
+	text-color: ee6e04;
+}
+
+.catology_empty_header {
+	box-shadow: 0px 2px 3px black;
+}
+
+
+footer {
+        padding: 10px 20px;
+        background: #666;
+        color: white;
+		border: 1px double black;
+}
+
+.h4 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 60px;
+}
+
+
+
+h3{
+	font-size: 90px;
+}
+
+h2 {
+	
+	font-family: 'Monotype Corsiva', cursive; 
+	font-size: 55px;
+}
+
+h5 {
+	font-family: 'Monotype Corsiva', cursive; 
+	font-size: 40px;
+	color: #4d4746;
+}
+
+h6 {
+	font-family: 'Monotype Corsiva', cursive; 
+	font-size: 48px;
+}
+
+.h7 {
+	font-family: 'Monotype Corsiva', cursive; 
+	font-size: 32px;
+	color: #363232;
+}
+
+.main {
+	margin-left: 50px;
+	margin-right: 35px;
+}
+
+.accordion {
+    background-color: #eee;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+}
+
+
+.active, .accordion:hover {
+    background-color: #ccc;
+}
+
+
+.panel {
+    padding: 0 18px;
+    background-color: white;
+    display: none;
+    overflow: hidden;
+}
